@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Agar Online</string>
+    <string name="facebook_app_id">1282247552588690</string>
+    <string name="fb_login_protocol_scheme">fb1282247552588690</string>
+    <string name="facebook_client_token">aacd9cb9508b3d860997ae757be7f92b</string>
+</resources>

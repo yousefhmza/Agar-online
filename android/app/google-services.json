@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "704676162039",
+    "project_id": "agar-online",
+    "storage_bucket": "agar-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704676162039:android:085a2f30bc7b5040c826f2",
+        "android_client_info": {
+          "package_name": "com.mc.agar_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704676162039-3tetvogbr59n97fv3ds0tk6fcpq2s1k1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mc.agar_online",
+            "certificate_hash": "b94bff2abfad7911aa0242ebfb5a843cdbd95601"
+          }
+        },
+        {
+          "client_id": "704676162039-5bl6r58b2v7fosituvl4s0fh98f3r6vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mc.agar_online",
+            "certificate_hash": "dc7ce3f6de245c85161dd49825381ae645104a8a"
+          }
+        },
+        {
+          "client_id": "704676162039-9j72afoe4gs59vfkss7p3e85fhgpoo7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mc.agar_online",
+            "certificate_hash": "43d3dbbc7f942cb16c3279c376147121289c36e4"
+          }
+        },
+        {
+          "client_id": "704676162039-ifhu9p3935n2tapbpv69m9pba4hh16bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mc.agar_online",
+            "certificate_hash": "b1667ff63bea3a0902c70e7c8ce1833373d9b001"
+          }
+        },
+        {
+          "client_id": "704676162039-ic3ha015ps7egjilof7lsp1j2q66315i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWjm3vLFCoM1u1Ijc9wF2mnGi1-235yDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704676162039-ecohqtelr5a9hriuh3nik74ro115srsu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704676162039-93aqhcml09o3h1hocto958ugnjb167ot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agaronline.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

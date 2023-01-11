@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>704676162039-93aqhcml09o3h1hocto958ugnjb167ot.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.704676162039-93aqhcml09o3h1hocto958ugnjb167ot</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>704676162039-ifhu9p3935n2tapbpv69m9pba4hh16bo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBIIS63c24liJddfcDC7lFmdxxTFrJpg4M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>704676162039</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.agaronline.app</string>
+	<key>PROJECT_ID</key>
+	<string>agar-online</string>
+	<key>STORAGE_BUCKET</key>
+	<string>agar-online.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:704676162039:ios:cdff51a4fe940e42c826f2</string>
+</dict>
+</plist>
